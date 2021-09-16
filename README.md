@@ -8,4 +8,4 @@ Team: Wenjun and Henry
 # The first result
 ![WiFi_scanplot](https://user-images.githubusercontent.com/90300850/133684543-3403f49a-d87a-4e7d-8dc3-6a76167ca396.png)
 
- The first plot drown by wifi_plot.py shows a lot of 0 wifi detected among the 100 times of scans. However, since the scanning is done in PHO 113, which means that even there are no other hotspots moving by, it should at least shows 3 detected wifi which are the univerisity network. When we were reviewing the process of scanning in terminal, we found that there shows several times of error in scanning. This may be the only reason why we got several  0 wifi detected output from the program.
+ The first plot drown by wifi_plot.py shows a lot of 0 wifi detected among the 100 times of scans. However, since the scanning is done in PHO 113, which means that even there are no other hotspots moving by, it should at least shows 3 detected wifi which are the univerisity networks. When we were reviewing the process of scanning in terminal, we found that there shows several times of error in scanning. This may be the only reason why we got several  0 wifi detected output from the program.

@@ -1,6 +1,6 @@
 
 # SeniorDesign Report
-Team 13: Wenjun and Henry
+Team 13: Wenjun Ma and Man Hang Henry Chong
 
 
  Our team goal is to utilize the wifi scan function which accomplished by Raspberry Pi to detect the number of nearby moving or static hotspot.

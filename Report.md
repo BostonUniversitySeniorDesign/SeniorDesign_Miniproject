@@ -19,3 +19,7 @@ Team 13: Wenjun and Henry
 
 # Second Result
 ![WiFi_scanplot_2](https://user-images.githubusercontent.com/90300850/133714206-c284b940-cee9-4ac5-ab3b-26cf91e3cc67.png)
+
+Explanation:
+
+The second wifi scanning is tested in Allston residential area. 

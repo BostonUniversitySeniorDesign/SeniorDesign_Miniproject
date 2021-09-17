@@ -22,4 +22,4 @@ Team 13: Wenjun and Henry
 
 Explanation:
 
-The second wifi scanning is tested in Allston residential area. 
+The second wifi scanning is tested in the same area as the first wifi scanning near a drive way. Unlike the first wifi scanning, this second one is scanned for 200 times. By comparing the first graph and second graph, the graph has a significant increase in the amount of wifi detected. This result makes sense as the second wifi scanning has done for more times

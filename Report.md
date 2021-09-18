@@ -32,4 +32,4 @@ The second plot shown by wifi_plot.py indicates that there are 4 to 5 wifi detec
 
 # Difficulties
 
-The major difficulties we had during the mini-project is knowing how to transfer the JSON file we created to our laptops. Since we both have macbooks, which do not create a network to share under the security & safety issues. Overall, the whole mini-project is smooth and straight-forward.
+The major difficulties we had during the mini-project is knowing how to transfer the JSON file we created to our laptops. Since we both have macbooks, which do not create a network to share under the security & safety issues, but the things solved after we decide just to use university wifi. Overall, the whole mini-project is smooth and straight-forward.

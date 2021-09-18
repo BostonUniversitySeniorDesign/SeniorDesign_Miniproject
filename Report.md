@@ -3,7 +3,7 @@
 Team 13: Wenjun Ma and Man Hang Henry Chong
 
 # Introduction
- Our team goal is to utilize the wifi scan function which accomplished by Raspberry Pi to detect the number of nearby moving or static hotspot.
+ Our team goal is to utilize the wifi_scan.py function which accomplished by Raspberry Pi to detect the number of nearby moving or static hotspot.
  The goal is easily achieved when we use wifi_scan.py to scan and log the data to a specific file which would be transfered into our laptops to be further interpret by wifi_plot.py. 
  
 First, we setup the Raspberry Pi hardware and operating system Raspberry Pi OS and get familiarity with Python and embedded sensors using the Raspberry Pi OS. Finally, collect and plot data using the Raspberry Pi as a wireless sensor. We examine the possibility of detecting automobile and fixed wifi in an area. Since the place where we conducted the scanning is in PHO 111 where near a driveway, we focused our efforts more on interpreting the impact of automobile on the number of wifi detected. While more precise tracking requires multiple radio receivers, just using one receiver in our Raspberry Pi can give a sense of automobile activity in an area. We have conducted two wifi scanning and both of them have different results.

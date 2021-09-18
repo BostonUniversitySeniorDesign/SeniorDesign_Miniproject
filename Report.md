@@ -6,7 +6,7 @@ Team 13: Wenjun Ma and Man Hang Henry Chong
  Our team goal is to utilize the wifi scan function which accomplished by Raspberry Pi to detect the number of nearby moving or static hotspot.
  The goal is easily achieved when we use wifi_scan.py to scan and log the data to a specific file which would be transfered into our laptops to be further interpret by wifi_plot.py. 
  
-First, we setup the Raspberry Pi hardware and operating system Raspberry Pi OS and get familiarity with Python and embedded sensors using the Raspberry Pi OS. Finally, collect and plot data using the Raspberry Pi as a wireless sensor. We examine the possibility of detecting automobile, bicycle, and/or pedestrian activity in an area. Many people carry smartphones or have automobiles that beacon wireless signals. While more precise tracking requires multiple radio receivers, just using one receiver in our Raspberry Pi can give a sense of user activity in an area. We have conducted two wifi scanning and both of them have different results.
+First, we setup the Raspberry Pi hardware and operating system Raspberry Pi OS and get familiarity with Python and embedded sensors using the Raspberry Pi OS. Finally, collect and plot data using the Raspberry Pi as a wireless sensor. We examine the possibility of detecting automobile and fixed wifi in an area. Since the place where we conducted the scanning is in PHO 111 where near a driveway, we focused our efforts more on interpreting the impact of automobile on the number of wifi detected. While more precise tracking requires multiple radio receivers, just using one receiver in our Raspberry Pi can give a sense of automobile activity in an area. We have conducted two wifi scanning and both of them have different results.
 
 # First Result
 ![WiFi_scanplot](https://user-images.githubusercontent.com/90300850/133684543-3403f49a-d87a-4e7d-8dc3-6a76167ca396.png)
@@ -30,3 +30,6 @@ Discussion:
 
 The second plot shown by wifi_plot.py indicates that there are 4 to 5 wifi detected in average during the first 15 minutes, while 10 to 13 wifi detected during the last 15 minutes. We can not ensure why there was a huge difference between this two period of time. It could be because the number of cars or personal hotspots were detected around the time.We are glad that we did the second wifi scanning to show a difference between the first and second plot.
 
+# Difficulties
+
+The major difficulties we had during the mini-project is knowing how to transfer the JSON file we created to our laptops. Since we both have macbooks, which do not create a network to share under the security & safety issues. Overall, the whole mini-project is smooth and straight-forward.

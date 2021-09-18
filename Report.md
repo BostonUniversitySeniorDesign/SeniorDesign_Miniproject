@@ -22,7 +22,7 @@ Team 13: Wenjun Ma and Man Hang Henry Chong
 
 Explanation:
 
-The second wifi scanning is tested in the same area as the first wifi scanning near a drive way. Unlike the first wifi scanning, this second one is scanned for 200 times. We could in the plot that the number of wifi detected makes more sense. It may because of the relatively larger amount of data being collected, and this largely lower the impact of the contingency of errors.
+The second wifi scanning is tested in the same area as the first wifi scanning near a drive way. Unlike the first wifi scanning, this second one is scanned for 200 times. We could see in the plot that the number of wifi detected makes more sense. It may because of the relatively larger amount of data being collected, and this largely lower the impact of the contingency of errors.
 
 Discussion:
 

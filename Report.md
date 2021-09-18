@@ -30,6 +30,3 @@ Discussion:
 
 The second plot shown by wifi_plot.py indicates that there are 4 to 5 wifi detected in average during the first 15 minutes, while 10 to 13 wifi detected during the last 15 minutes. We can not ensure why there was a huge difference between this two period of time. It could be because the number of cars or personal hotspots were detected around the time.We are glad that we did the second wifi scanning to show a difference between the first and second plot.
 
-# Difficulties
-
-The major difficulties we had during the mini-project is knowing how to transfer the JSON file we created to our laptops. Since we both have macbooks, which do not create a network to share under the security & safety issues. Overall, the whole mini-project is smooth and straight-forward.

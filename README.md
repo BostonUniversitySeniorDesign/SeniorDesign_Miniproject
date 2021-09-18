@@ -2,7 +2,6 @@
 Team 13: Wenjun Ma and Man Hang Henry Chong
 
 
- Our team goal is to utilize the wifi scan function which accomplished by Raspberry Pi to detect the number of nearby moving or static hotspot.
- This goal is easily achieved when we use wifi_scan.py to scan and log the data to a specific file which would be transfered into our laptop to be further interpret by wifi_plot.py. 
- 
+In this miniproject, our goal is to utilize Raspberry Pi to enable us monitoring the number of static or moving wifi nearby. With the function wifi_scan.py and wifi_plot.py, it is relatively easy for us to minitor the number of wifi or hotspot arounding us. Through further interpreting the data output, we are able to get some interesting conclusion such as the number of cars or people moving by during a section of time. In our miniproject, we will be more focus on the number of cars passing by.
+
  Please check our report on ![Report.md](https://github.com/WenjunMarvin/Senior-Design-wifi-scan/blob/15f0d7093a59dec1142349d15130f57ec89e71cb/Report.md)

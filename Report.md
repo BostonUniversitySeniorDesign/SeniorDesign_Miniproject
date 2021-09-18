@@ -22,8 +22,8 @@ Team 13: Wenjun Ma and Man Hang Henry Chong
 
 Explanation:
 
-The second wifi scanning is tested in the same area as the first wifi scanning near a drive way. Unlike the first wifi scanning, this second one is scanned for 200 times. By comparing the first graph and second graph, the graph has a significant increase in the amount of wifi detected. This result makes sense as the second wifi scanning has done for a longer period and was conducted during the after-work hours. We believe the longer of the wifi scan, the more devices will be detected.
+The second wifi scanning is tested in the same area as the first wifi scanning near a drive way. Unlike the first wifi scanning, this second one is scanned for 200 times. We could in the plot that the number of wifi detected makes more sense. It may because of the relatively larger amount of data being collected, and this largely lower the impact of the contingency of errors.
 
 Discussion:
 
-The second plot shown by wifi_plot.py indicates that there are 4 to 5 wifi detected in average during the first 15 minutes, while 10 to 13 wifi detected during the last 15 minutes. We can not ensure why there was a huge difference between this two period of time. It could be because the number of cars or personal hotspots were detected around the time.We are glad that we did the second wifi scanning to show a difference between the first and second plot.
+The second plot shown by wifi_plot.py indicates that there are 4 to 5 wifi detected in average during the first 15 minutes, while 10 to 13 wifi detected during the last 15 minutes. By comparing two results, the second scanning shows much more devices detected. One of the reason we could think about is that the scanning was done near a driveway and conducted during after-work hours. The number of cars passing by our location and being detected could be much higher, which also indicates the validness of the data.
